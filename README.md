@@ -54,3 +54,7 @@ Methodologies:
 I'm a recent MSc Data Analytics graduate with experience in data storytelling, operational analysis, and team-based projects. I’m passionate about turning raw datasets into meaningful insights.
 📫 [Connect with me on LinkedIn](www.linkedin.com/in/bhumika-hanumantharaya ) 
 
+#  📌 View the Project
+- 📄 [Appendix PDF](https://drive.google.com/file/d/1452v1jmtj9ZEGUhbE8gaejx8ixe8Yglm/view?usp=drive_link)
+- 📊 [Presentation Slide](https://docs.google.com/presentation/d/1mf8w9lCGUvnwICWlJiQRD0NhzkQamd4m/edit?usp=drive_link&ouid=104797347104586255676&rtpof=true&sd=true)
+
