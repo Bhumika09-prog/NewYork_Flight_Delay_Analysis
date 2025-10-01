@@ -43,22 +43,26 @@ Methodologies:
 ![Average Flight Delays](Visuals/BQ1.png) 
 
  Delay rates remained steady (~22–23%) until 2016, rose to 26% by 2019, then dropped sharply to 11% during the 2020 pandemic. Post-COVID, delays rebounded to 20–24%, with a slight decline in 2023.
+ 
 
 
 ### Seasonal Impact on Flight Delays  
 ![Seasonal Delays](Visuals/BQ2.png)  
 
  Summer months consistently saw the highest delays pre- and post-pandemic, while 2020 showed a major drop across all months due to reduced operations during COVID-19.
+ 
 
 ### Key Drivers of Arrival Delays  
 ![Delay Causes](Visuals/BQ3.png)  
 
 NAS (air traffic & airport operations) and Carrier-related issues were the largest contributors to delays, while weather and security delays remained comparatively minor.
 
+
 ### Main Causes of Flight Cancellations  
 ![Cancellation Causes](Visuals/BQ4.png)  
 
  Weather disruptions drove the majority of cancellations (39%), followed by NAS and Carrier issues. Security-related cancellations were the least frequent.
+ 
 
 ### Airline Performance in 2023  
 ![Airline Delays](Visuals/BQ5.png)  
