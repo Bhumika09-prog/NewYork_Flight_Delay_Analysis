@@ -35,6 +35,25 @@ Methodologies:
 -Top causes of delays included carrier-related issues, weather, and late-arriving aircraft.
 -Data visualization helped simplify complex temporal patterns and communicate actionable insights effectively.
 
+# Results & Insights
+
+## Flight Delays by Airline
+![Flight Delays by Airline](visuals/BQ1.png)  
+*Insight: Smaller regional airlines showed higher delay rates, while major carriers maintained more consistent performance.*
+
+## Seasonal Delay Trends
+![Seasonal Delay Trends](images/delay_trends.png)  
+*Insight: Summer months consistently showed the highest delays, largely due to weather and air traffic congestion.*
+
+## Delay Causes Breakdown
+![Delay Causes Breakdown](images/delay_causes.png)  
+*Insight: Weather (39%) and NAS issues (21%) were the top drivers of delays, suggesting resource allocation during adverse conditions could reduce disruptions.*
+
+## Impact of Time of Day
+![Delays by Time of Day](images/delays_timeofday.png)  
+*Insight: Evening flights had significantly higher delays compared to morning departures, highlighting the cumulative impact of congestion throughout the day.*
+
+
 # 👥 Team Contributions
 -Data Engineering: Data extraction, HDFS setup, Hive schema design.
 -Data Analysis: Cleaning, transformation, and EDA using Spark and -R.
