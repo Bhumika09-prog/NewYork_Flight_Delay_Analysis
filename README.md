@@ -37,21 +37,34 @@ Methodologies:
 
 # Results & Insights
 
-## Flight Delays by Airline
-![Flight Delays by Airline](Visuals/BQ1.jpeg)  
-*Insight: Smaller regional airlines showed higher delay rates, while major carriers maintained more consistent performance.*
+## Results & Insights
 
-## Seasonal Delay Trends
-![Seasonal Delay Trends](Visuals/BQ2.png)  
-*Insight: Summer months consistently showed the highest delays, largely due to weather and air traffic congestion.*
+### Flight Delays Show Pre- and Post-Pandemic Shifts  
+![Average Flight Delays](Visuals/BQ1.png) 
 
-## Delay Causes Breakdown
-![Delay Causes Breakdown](Visuals/BQ3.png)  
-*Insight: Weather (39%) and NAS issues (21%) were the top drivers of delays, suggesting resource allocation during adverse conditions could reduce disruptions.*
+ Delay rates remained steady (~22–23%) until 2016, rose to 26% by 2019, then dropped sharply to 11% during the 2020 pandemic. Post-COVID, delays rebounded to 20–24%, with a slight decline in 2023.
 
-## Impact of Time of Day
-![Delays by Time of Day](Visuals/BQ4.png)  
-*Insight: Evening flights had significantly higher delays compared to morning departures, highlighting the cumulative impact of congestion throughout the day.*
+
+### Seasonal Impact on Flight Delays  
+![Seasonal Delays](Visuals/BQ2.png)  
+
+ Summer months consistently saw the highest delays pre- and post-pandemic, while 2020 showed a major drop across all months due to reduced operations during COVID-19.
+
+### Key Drivers of Arrival Delays  
+![Delay Causes](Visuals/BQ3.png)  
+
+NAS (air traffic & airport operations) and Carrier-related issues were the largest contributors to delays, while weather and security delays remained comparatively minor.
+
+### Main Causes of Flight Cancellations  
+![Cancellation Causes](Visuals/BQ4.png)  
+
+ Weather disruptions drove the majority of cancellations (39%), followed by NAS and Carrier issues. Security-related cancellations were the least frequent.
+
+### Airline Performance in 2023  
+![Airline Delays](Visuals/BQ5.png)  
+
+ Republic Airlines maintained the lowest delay rate (13.8%) despite high traffic, while smaller carriers like Hawaiian Airlines faced the highest delay percentages (>45%), showing significant performance gaps.
+
 
 
 # 👥 Team Contributions
