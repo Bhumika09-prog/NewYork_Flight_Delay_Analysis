@@ -42,15 +42,15 @@ Methodologies:
 *Insight: Smaller regional airlines showed higher delay rates, while major carriers maintained more consistent performance.*
 
 ## Seasonal Delay Trends
-![Seasonal Delay Trends](Visuals/BQ2.jpeg)  
+![Seasonal Delay Trends](Visuals/BQ2.png)  
 *Insight: Summer months consistently showed the highest delays, largely due to weather and air traffic congestion.*
 
 ## Delay Causes Breakdown
-![Delay Causes Breakdown](Visuals/BQ3.jpeg)  
+![Delay Causes Breakdown](Visuals/BQ3.png)  
 *Insight: Weather (39%) and NAS issues (21%) were the top drivers of delays, suggesting resource allocation during adverse conditions could reduce disruptions.*
 
 ## Impact of Time of Day
-![Delays by Time of Day](Visuals/BQ4.jpeg)  
+![Delays by Time of Day](Visuals/BQ4.png)  
 *Insight: Evening flights had significantly higher delays compared to morning departures, highlighting the cumulative impact of congestion throughout the day.*
 
 
