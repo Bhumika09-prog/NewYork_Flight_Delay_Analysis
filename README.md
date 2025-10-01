@@ -38,7 +38,7 @@ Methodologies:
 # Results & Insights
 
 ## Flight Delays by Airline
-![Flight Delays by Airline](visuals/BQ1.jpeg)  
+![Flight Delays by Airline](Visuals/BQ1.jpeg)  
 *Insight: Smaller regional airlines showed higher delay rates, while major carriers maintained more consistent performance.*
 
 ## Seasonal Delay Trends
